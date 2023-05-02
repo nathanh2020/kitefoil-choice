@@ -14,4 +14,4 @@ This file imports all the data from the month of training as .csv files into my 
 
 This file connects to _Visual Crossing's_ Weather API.
 It queries the api for relevant wind data including direction, gusts, and speed.
-It joins that data back to Daniela's kiting data in my sql database and exports that as a csv file for further analysis and visualization in Tableau.
+It joins that data back to Daniela's kiting data in my sql database and exports that as a .csv file for further analysis and visualization in Tableau.
